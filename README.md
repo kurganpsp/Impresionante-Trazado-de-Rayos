@@ -9,7 +9,7 @@ PR's welcome!
 
 - [Glossary of Terms](GLOSSARY.md)
 - [What is Ray Tracing?](#what-is-ray-tracing)
-- [Masters Blogs](#masters-blogs)
+- [Ray Marching](#ray-marching)
 - [Iconic Publications](#iconic-publications)
 - [Path Tracing](#path-tracing)
 - [Photon Mapping](#photon-mapping)
@@ -57,10 +57,11 @@ PR's welcome!
 
 
 
-## Masters Blogs
+## Ray Marching
 
 - 💾 [Nathan Vaughn/⭐/  Shadertoy Series](https://inspirnathan.com/posts/47-shadertoy-tutorial-part-1/)
 - 💾 [Martijn Steinrucken/⭐/ Ray Marching for Dummies!](https://www.youtube.com/watch?v=PGtv-dBi2wE)
+- 💾 [Michael Walczyk/⭐/ Ray Marching](https://michaelwalczyk.com/blog-ray-marching.html)
 
 
 
