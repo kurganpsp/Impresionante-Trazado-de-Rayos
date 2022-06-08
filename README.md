@@ -53,15 +53,14 @@ PR's welcome!
   - 📖 [Ray Tracing: The Next Week - (2016) *Peter Shirley*](http://in1weekend.blogspot.com/2016/01/ray-tracing-second-weekend.html)
   - 📖 [Ray Tracing: The Rest of Your Life - (2016) *Peter Shirley*](http://in1weekend.blogspot.com/2016/03/ray-tracing-rest-of-your-life.html)
 - 📺 [An Explanation of the Rendering Equation - (2019) *Eric Arnebäck*](https://www.youtube.com/watch?v=eo_MTI-d28s)
-- 📺 [Ray Marching for Dummies! - (2018) *Martijn Steinrucken*](https://www.youtube.com/watch?v=PGtv-dBi2wE)
 - 📺 [Rendering / Ray Tracing Course - (2017) *TU Wien*](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
 
 
 ## Masters Blogs
 
-- 📺 [Nathan Vaughn ⭐ / Shadertoy Series](https://inspirnathan.com/posts/47-shadertoy-tutorial-part-1/)
-
+- 📺 [Nathan Vaughn/⭐/  Shadertoy Series](https://inspirnathan.com/posts/47-shadertoy-tutorial-part-1/)
+- 📺 [Ray Marching for Dummies! - (2018) *Martijn Steinrucken*](https://www.youtube.com/watch?v=PGtv-dBi2wE)
 
 
 
