@@ -9,6 +9,7 @@ PR's welcome!
 
 - [Glossary of Terms](GLOSSARY.md)
 - [What is Ray Tracing?](#what-is-ray-tracing)
+- [Masters Blogs](#wasters-blogs)
 - [Iconic Publications](#iconic-publications)
 - [Path Tracing](#path-tracing)
 - [Photon Mapping](#photon-mapping)
@@ -54,6 +55,9 @@ PR's welcome!
 - 📺 [An Explanation of the Rendering Equation - (2019) *Eric Arnebäck*](https://www.youtube.com/watch?v=eo_MTI-d28s)
 - 📺 [Ray Marching for Dummies! - (2018) *Martijn Steinrucken*](https://www.youtube.com/watch?v=PGtv-dBi2wE)
 - 📺 [Rendering / Ray Tracing Course - (2017) *TU Wien*](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
+
+## Masters Blogs
+
 
 ## Iconic Publications
 
