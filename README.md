@@ -102,11 +102,12 @@ PR's welcome!
 
 - 📖 [(2022) - Ray-Triangle Intersection: Geometric Solution - *Scratchapixel*](https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/ray-triangle-intersection-geometric-solution)
 - 📖 [(2019) - Realtime Rendering Object/Object Intersection Page - *Eric Haines*](http://www.realtimerendering.com/intersections.html)
-- 📖 [(1998) - ERIT: A Collection of Efficient and Reliable Intersection Tests - *Martin Held*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.9172&rep=rep1&type=pdf)
 - 📖 [Introduction to Acceleration Structures - *Scratchapixel*](https://www.scratchapixel.com/lessons/advanced-rendering/introduction-acceleration-structure/bounding-volume)
-- 📖 [(2018) - PBRT Chater 4 Primitives and Intersection Acceleration - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Primitives_and_Intersection_Acceleration.html)
 - 📖 [(2019) - Dynamic BVH - *Erin Catto*](https://box2d.org/files/ErinCatto_DynamicBVH_Full.pdf)
+- 📖 [(2018) - PBRT Chater 4 Primitives and Intersection Acceleration - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Primitives_and_Intersection_Acceleration.html)
 - 📺 [How to Make 3D Fractals](https://www.youtube.com/watch?v=svLzmFuSBhk)
+- 📖 [(1998) - ERIT: A Collection of Efficient and Reliable Intersection Tests - *Martin Held*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.9172&rep=rep1&type=pdf)
+
 
 ## BxDF
 
@@ -116,20 +117,20 @@ PR's welcome!
 - 📖 [(2018) - PBRT Chapter 8 Reflection Models - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Reflection_Models.html)
 - 📖 [(2018) - PBRT Chapter 9 Materials - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Materials.html)
 - 📖 [(2018) - PBRT Chapter 11 Volume Scattering - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Volume_Scattering.html)
-- 📺 [(2013) - Geometric Optics Playlist - *Doc Schuster*](https://www.youtube.com/playlist?list=PLLUpvzaZLf3IB4GEhaCg7L3ioiLkHLk7Q)
-- 📖 [(2016) - Physically Based Sky, Atmosphere, and Cloud Rendering in Frostbite - *Sebastien Hillaire*](https://media.contentapi.ea.com/content/dam/eacom/frostbite/files/s2016-pbs-frostbite-sky-clouds-new.pdf)
-- 📖 [(2017) - Revisiting Physically Based Shading in ImageWorks - *Christopher Kulla & Alejandro Conty*](https://blog.selfshadow.com/publications/s2017-shading-course/imageworks/s2017_pbs_imageworks_slides.pdf)
 - 📖 [(2018) - A Multifaceted Explanation Part 1 - *Stephen Hill*](https://blog.selfshadow.com/2018/05/13/multi-faceted-part-1/)
 - 📖 [(2018) - A Multifaceted Explanation Part 2 - *Stephen Hill*](https://blog.selfshadow.com/2018/06/04/multi-faceted-part-2/)
 - 📖 [(2018) - A Multifaceted Explanation Part 3 - *Stephen Hill*](https://blog.selfshadow.com/2018/08/05/multi-faceted-part-3/)
-  
+- 📖 [(2017) - Revisiting Physically Based Shading in ImageWorks - *Christopher Kulla & Alejandro Conty*](https://blog.selfshadow.com/publications/s2017-shading-course/imageworks/s2017_pbs_imageworks_slides.pdf)
+- 📖 [(2016) - Physically Based Sky, Atmosphere, and Cloud Rendering in Frostbite - *Sebastien Hillaire*](https://media.contentapi.ea.com/content/dam/eacom/frostbite/files/s2016-pbs-frostbite-sky-clouds-new.pdf)
+- 📺 [(2013) - Geometric Optics Playlist - *Doc Schuster*](https://www.youtube.com/playlist?list=PLLUpvzaZLf3IB4GEhaCg7L3ioiLkHLk7Q)
+
+
 ## Sampling Methods
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hammersley_set_2D.svg/289px-Hammersley_set_2D.svg.png" height="200">
 
 - 📖 [(2018) - PBRT Chapter 7 - *Matt Pharr, Wenzel Jakob, Greg Humphreys, and Morgan Kaufmann*](http://www.pbr-book.org/3ed-2018/Sampling_and_Reconstruction.html)
 - 📖 [(2018) - Generating Random Points in a Sphere - *Karthik Karanth*](https://karthikkaranth.me/blog/generating-random-points-in-a-sphere/)
-- 📖 [(1998) - Robust Monte Carlo Methods Chapters 2, 9, & 11 - *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
 - 📖 [(2018) - Flavors of Sampling in Ray Tracing  - *Peter Shirley*](http://psgraphics.blogspot.com/2018/10/flavors-of-sampling-in-ray-tracing.html)
 - 📺 [(2020) - Continuous Multiple Importance Sampling - SIGGRAPH 2020 - *Rex West, Iliyan Georgiev , Adrien Gruson , Toshiya Hachisuka*](https://youtu.be/dxFSwplfdpk)
 - 📖 [(2018) - Position-Free Monte Carlo Simulation for Arbitrary Layered BSDFs - *Yu Guo, Miloš Hašan, Shuang Zhao*](https://shuangz.com/projects/layered-sa18/)
@@ -140,6 +141,8 @@ PR's welcome!
 - 📖 [(2018) - Double Hierarchies for Directional Importance Sampling in Monte Carlo Rendering - *Norbert Bus and Tamy Boubekeur*](http://www.jcgt.org/published/0006/03/02/)
 - 📖 [(2018) - Importance Sampling of Many Lights with Adaptive Tree Splitting - *Alejandro Conty and Christopher Kulla*](http://aconty.com/pdf/many-lights-hpg2018.pdf)
 - 📖 [(2018) - Monte Carlo Methods for Volumetric Light Transport Simulation - *Jan Novák, Iliyan Georgiev, Johannes Hanika, and Wojciech Jarosz*](http://iliyan.com/publications/VolumeSTAR)
+- 📖 [(1998) - Robust Monte Carlo Methods Chapters 2, 9, & 11 - *Eric Veach*](https://graphics.stanford.edu/papers/veach_thesis/)
+
 
 ## Denoising, Filtering, and Reconstruction
 
@@ -205,9 +208,10 @@ PR's welcome!
 
 ### Nvidia OptiX
 
-- 📖 [(2017) - Introduction to OptiX - *Nvidia*](http://on-demand.gputechconf.com/gtc/2017/presentation/s7455-martin-stich-optix.pdf)
-- 📖 [OptiX QuickStart - *Nvidia*](https://docs.nvidia.com/gameworks/content/gameworkslibrary/optix/optix_quickstart.htm)
+- 📖 [(2019) - Ray Tracing The Rest of Your Life in OptiX - *João Vítor Silva*](https://joaovbs96.github.io/posts/rest-life/)
+- 📖 [(2018) - OptiX QuickStart - *Nvidia*](https://docs.nvidia.com/gameworks/content/gameworkslibrary/optix/optix_quickstart.htm)
 - 📖 [(2018) - Ray Tracing The Next Week in OptiX - *João Vítor Silva*](https://joaovbs96.github.io/posts/next-week/)
-  - 📖 [(2019) - Ray Tracing The Rest of Your Life in OptiX - *João Vítor Silva*](https://joaovbs96.github.io/posts/rest-life/)
 - 💾 [(2018) - optix_advanced_samples - *Nvidia*](https://github.com/nvpro-samples/optix_advanced_samples)
 - 📺 [(2018) - GPU Ray Tracing for Film and Design: High Performance Ray Tracing with OptiX - *Oliver Klehm*](http://on-demand.gputechconf.com/siggraph/2018/video/sig1812-2-oliver-klehm-high-performance-optix.html)
+- 📖 [(2017) - Introduction to OptiX - *Nvidia*](http://on-demand.gputechconf.com/gtc/2017/presentation/s7455-martin-stich-optix.pdf)
+
