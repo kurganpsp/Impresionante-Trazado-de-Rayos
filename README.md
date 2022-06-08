@@ -60,7 +60,7 @@ PR's welcome!
 ## Masters Blogs
 
 - 💾 [Nathan Vaughn/⭐/  Shadertoy Series](https://inspirnathan.com/posts/47-shadertoy-tutorial-part-1/)
-- 💾 [Ray Marching for Dummies! - (2018) *Martijn Steinrucken*](https://www.youtube.com/watch?v=PGtv-dBi2wE)
+- 💾 [Martijn Steinrucken/⭐/ Ray Marching for Dummies!](https://www.youtube.com/watch?v=PGtv-dBi2wE)
 
 
 
