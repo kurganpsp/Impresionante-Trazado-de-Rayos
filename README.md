@@ -9,7 +9,7 @@ PR's welcome!
 
 - [Glossary of Terms](GLOSSARY.md)
 - [What is Ray Tracing?](#what-is-ray-tracing)
-- [Masters Blogs](#wasters-blogs)
+- [Masters Blogs](#masters-blogs)
 - [Iconic Publications](#iconic-publications)
 - [Path Tracing](#path-tracing)
 - [Photon Mapping](#photon-mapping)
