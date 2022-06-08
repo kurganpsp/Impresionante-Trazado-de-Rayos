@@ -60,7 +60,7 @@ PR's welcome!
 
 ## Masters Blogs
 
-- 📺 [Rendering / Ray Tracing Course - (2017) *TU Wien*](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
+- 📺 [Nathan Vaughn ⭐ / Shadertoy Series](https://inspirnathan.com/posts/47-shadertoy-tutorial-part-1/)
 
 
 
