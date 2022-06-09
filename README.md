@@ -53,6 +53,7 @@ Una lista seleccionada de recursos sobre Trazado de Rayos.
 - 📖 [(2016) - Ray Tracing: The Next Week - *Peter Shirley*](http://in1weekend.blogspot.com/2016/01/ray-tracing-second-weekend.html)
 - 📖 [(2016) - Ray Tracing: The Rest of Your Life - *Peter Shirley*](http://in1weekend.blogspot.com/2016/03/ray-tracing-rest-of-your-life.html)
 - 📖 [(1991) - An Introduction to Ray Tracing - *Andrew Glassner*](http://www.realtimerendering.com/raytracing/An-Introduction-to-Ray-Tracing-The-Morgan-Kaufmann-Series-in-Computer-Graphics-.pdf)
+- 📖 [(2015) - Matematicas para Efectos Visuales y Animación - *Mtro. Luis Echenique*](https://sites.google.com/a/upmh.edu.mx/matematicas-para-efectos-visuales-y-animaci/)
 
 
 
